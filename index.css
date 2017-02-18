@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    width: 1440px;
+    height: 2954px;
+    background-color: white;
+}
+.header{
+    width: 100%;
+    height: 534px;
+    background-image: url("http://i1.piimg.com/567571/16b8ccdb61861689.png");
+}
+.gif{
+    position: absolute;
+    width: 250px;
+    height: 518px;
+    background-color: black;
+    margin-left: 360px;
+    margin-top: 80px;
+}
