@@ -5,12 +5,14 @@ body{
 .container{
     width: 1440px;
     height: 2954px;
-    background-color: white;
 }
 .header{
     width: 100%;
     height: 534px;
     background-image: url("http://i1.piimg.com/567571/16b8ccdb61861689.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
 }
 .gif{
     position: absolute;
@@ -19,4 +21,65 @@ body{
     background-color: black;
     margin-left: 360px;
     margin-top: 80px;
+}
+.include{
+    margin-left: 698px;
+    height: 534px;
+}
+.big{
+    position: absolute;
+    width: 381px;
+    height: 112px;
+    margin: 132px 361px 10px 88px;
+    background-image: url("http://p1.bpimg.com/567571/01406e3aef71e73a.png");
+    background-repeat: no-repeat;
+}
+.little{
+    position: absolute;
+    width: 382px;
+    height: 48px;
+    margin: 254px 360px 40px 88px;
+    background-image: url("http://i1.piimg.com/567571/6e22ca29ec156f48.png");
+    background-repeat: no-repeat;
+}
+.Android{
+    position: absolute;
+    width: 100px;
+    height: 122px;
+    margin: 342px 652px 70px 78px;
+    background-image: url("http://i1.piimg.com/567571/b6ef1bc9bd26bff9.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.iOS{
+    position: absolute;
+    width: 100px;
+    height: 122px;
+    margin: 342px 532px 70px 198px;
+    background-image: url("http://i1.piimg.com/567571/bff3032887525585.png");
+    background-repeat: no-repeat;
+}
+.interface{
+    width: 1001px;
+    height: 525px;
+    margin: 120px 219px 100px 220px;
+    background-color: blue;
+}
+.advantage{
+    width: 440px;
+    height: 525px;
+    background-color: red;
+}
+.new_advantage{
+    position: absolute;
+    font-size: 28px;
+    font-family: "Microsoft YaHei";
+    margin-top: 90px;
+    margin-bottom: 69px;
+}
+.quick{
+    position: absolute;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: "Microsoft YaHei";
 }
