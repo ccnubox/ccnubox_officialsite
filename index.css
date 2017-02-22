@@ -1,19 +1,122 @@
-body{
+html,body{
     margin:0px;
     padding:0px;
-}
-.container{
-    width: 1440px;
-    height: 2954px;
+    height: 100%;
+    width: 100%;
 }
 .header{
     width: 100%;
-    height: 534px;
-    background-image: url("http://i1.piimg.com/567571/16b8ccdb61861689.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
+    height: 511px;
+    background-image: url("http://i1.piimg.com/567571/7fb6fb045793da9e.png");
+    background-color: #7B79FF;
+    background-repeat: repeat;
     margin: 0 auto;
+    padding-top: 23px;
+    font-size: 0;
 }
+.content{
+    width: 1150px;
+    height: 511px;
+    margin: 0 auto;
+    background-image: url("http://i1.piimg.com/567571/0686c21b9f8973e9.png");
+    background-repeat: no-repeat;
+}
+.header .content-left{
+    display: inline-block;
+    width: 250px;
+    height: 518px;
+    margin-left: 200px;
+    margin-right: 88px;
+    margin-top: 80px;
+    background-color: red;
+}
+.header .content-right{
+    display: inline-block;
+    width: 382px;
+    height: 100%;
+    vertical-align: top;
+}
+.top{
+    width: 381px;
+    height: 112px;
+    margin-top: 132px;
+}
+.top_word{
+    width: 100%;
+    font-size: 36px;
+    font-weight: bolder;
+    font-family:  "Microsoft YaHei";
+    color: white;
+}
+.middle{
+    width: 100%;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: "Microsoft YaHei";
+    color: white;
+
+}
+.bottom{
+    width: 250px;
+    height: 122px;
+    margin-top: 50px;
+    margin-right: 532px;
+    margin-left: -10px;
+}
+.bottom-left{
+    width: 100px;
+    height: 100%;
+    background-image: url("http://i1.piimg.com/567571/b6ef1bc9bd26bff9.png");
+    display: inline-block;
+}
+.bottom-right{
+    margin-left: 30px;
+    width: 100px;
+    height: 100%;
+    background-image: url("http://i1.piimg.com/567571/bff3032887525585.png");
+    display: inline-block;
+}
+.interface{
+    width: 1100px;
+    height: 525px;
+    margin: 0 auto;
+    margin-top: 200px;
+    display: inline-block;
+  }
+.advantage{
+    width: 300px;
+    height: 255px;
+    margin-left:150px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 128px;
+}
+.new_advantage{
+    font-size: 28px;
+    font-family: "Microsoft YaHei";
+    text-align: left;
+    color: #333333;
+    margin-bottom: 70px;
+}
+.more{
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+    text-align: left;
+    color: #333333;
+    font-weight: lighter;
+    margin-bottom: 25px;
+}
+.picture{
+    width: 561px;
+    height: 100%;
+    margin-left: 57px;
+    background-color: red;
+    display: inline-block;
+}
+
+
+
+/*
 .gif{
     position: absolute;
     width: 250px;
