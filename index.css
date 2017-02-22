@@ -107,10 +107,9 @@ html,body{
     margin-bottom: 25px;
 }
 .picture{
-    width: 561px;
+    width: 640px;
     height: 100%;
-    margin-left: 57px;
-    background-color: red;
+    background-image: url("http://i1.piimg.com/567571/44511892d2fab75e.png");
     display: inline-block;
 }
 
