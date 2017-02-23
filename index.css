@@ -79,9 +79,9 @@ html,body{
 .interface{
     width: 1100px;
     height: 525px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 200px;
-    display: inline-block;
   }
 .advantage{
     width: 300px;
