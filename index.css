@@ -248,8 +248,15 @@ html,body{
     background-color: white;
     height: 690px;
 }
-.first-row{
+.row{
     width: 100%;
     height: 172px;
+}
+.block{
+    width: 32%;
+    height: 100%;
     background-color: red;
+    display:inline-flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
 }
