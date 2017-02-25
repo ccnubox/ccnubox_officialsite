@@ -114,7 +114,7 @@ html,body{
 }
 .function{
     width: 1000px;
-    height: 500px;
+    height: 470px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
@@ -137,7 +137,7 @@ html,body{
 }
 .function-bottom{
     width: 100%;
-    height: 500px;
+    height: 400px;
 }
 .function_bottom_left{
     width: 32%;
@@ -213,6 +213,4 @@ html,body{
     margin-left: auto;
     margin-right: auto;
     width: 180px;
-
-
 }
