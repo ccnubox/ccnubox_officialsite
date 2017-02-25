@@ -270,6 +270,7 @@ html,body{
 }
 .word{
     font-size: 20px;
+    font-family:  "Microsoft YaHei";
     color: #666666;
     text-align: center;
     font-weight: lighter;
@@ -314,4 +315,86 @@ html,body{
     background-repeat: no-repeat;
 }
 }
-.
+.footer{
+    width: 100%;
+    height: 190px;
+}
+.footer-top{
+    width: 100%;
+    height: 100px;
+}
+.footer-bottom{
+    width: 100%;
+    height: 90px;
+    background-image: url("http://i1.piimg.com/567571/7fb6fb045793da9e.png");
+    background-color: #7B67FF;
+    background-repeat: repeat;
+}
+.logo{
+    width: 150px;
+    height: 100%;
+    margin-left: 170px;
+    display: inline-block;
+}
+.logopicture{
+    width: 30px;
+    height: 30px;
+    background-image: url("http://p1.bpimg.com/567571/fbcebf8b41b398db.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.logoword{
+    width: auto;
+    font-size: 20px;
+    font-family:  "Microsoft YaHei";
+    display: inline-block;
+    color: white;
+    font-weight: lighter;
+    /*vertical-align: top;*/
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.join{
+    width: 400px;
+    height: 100%;
+    display: inline-block;
+    margin-left: 300px;
+    vertical-align: top;
+}
+.joinlogo{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-image: url("http://p1.bqimg.com/567571/edcb0143edd18daf.png");
+    background-repeat: no-repeat;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+.joinwho{
+    display: inline-block;
+    font-family:  "Microsoft YaHei";
+    color: white;
+    font-size: 14px;
+    font-weight: lighter;
+    vertical-align: top;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.joinus{
+    display: inline-block;
+    font-family:  "Microsoft YaHei";
+    color: white;
+    font-size: 14px;
+    margin-left: 50px;
+    vertical-align: top;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-decoration: none
+}
+a:hover{
+  color: #FF9135;
+}
