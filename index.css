@@ -116,7 +116,7 @@ html,body{
 }
 .function{
     width: 1000px;
-    height: 470px;
+    height: 600px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
@@ -216,6 +216,7 @@ html,body{
     margin-right: auto;
     width: 180px;
 }
+@media (min-width: 400px) {
 .browse{
     width: 100%;
     height: 930px;
@@ -255,8 +256,62 @@ html,body{
 .block{
     width: 32%;
     height: 100%;
-    background-color: red;
-    display:inline-flex;
+    display: inline-block;
+/*    display:inline-flex;
     flex-wrap: nowrap;
-    justify-content: space-around;
+    justify-content: space-around;*/
 }
+.blockpicture{
+    width: 160px;
+    height: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+}
+.word{
+    font-size: 20px;
+    color: #666666;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: -20px;
+}
+.score{
+    background-image: url("http://i1.piimg.com/567571/d1cfb50232b0909a.png");
+}
+.notice{
+    background-image: url("http://p1.bpimg.com/567571/c0cb91ce775126ba.png");
+}
+.electrica{
+    background-image: url("http://p1.bpimg.com/567571/adb9fa311a6499a6.png");
+}
+.card{
+    background-image: url("http://p1.bpimg.com/567571/25b6906725a5fb89.png");
+}
+.computation{
+    background-image: url("http://p1.bpimg.com/567571/ec747ef39ef2c880.png");
+}
+.classroom{
+    background-image: url("http://p1.bpimg.com/567571/faa6da46cdc3065b.png");
+}
+.information{
+    background-image: url("http://p1.bpimg.com/567571/6fe9bf675310cd49.png");
+}
+.calendar{
+    background-image: url("http://p1.bpimg.com/567571/341c44b560ecd6b4.png");
+}
+.website{
+    background-image: url("http://p1.bpimg.com/567571/e82d00c086319725.png");
+}
+.xueer{
+    background-image: url("http://p1.bpimg.com/567571/f0fee7aafc731f51.png");
+}
+.library{
+    background-image: url("http://p1.bpimg.com/567571/5bfcd767ed7ac18a.png");
+    background-repeat: no-repeat;
+}
+.schedule{
+    background-image: url("http://p1.bpimg.com/567571/e92d034c9d496c4a.png");
+    background-repeat: no-repeat;
+}
+}
+.
