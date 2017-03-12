@@ -24,7 +24,7 @@ html,body{
 .content-left{
     display: inline-block;
     width: 320px;
-    height: 518px;
+    height: 550px;
     margin-left: 170px;
     margin-right: 88px;
     margin-top: 80px;
@@ -35,8 +35,12 @@ html,body{
   background-image: url("./phone_img.png");
 }
 .gif{
-    width: 90%;
-    height: 90%;
+    width: 70%;
+    height: 75%;
+    padding-top: 50px;
+    padding-bottom: 7px;
+    display: block;
+    margin: 0 auto;
 }
 .content-right{
     display: inline-block;
