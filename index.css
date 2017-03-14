@@ -7,7 +7,7 @@ html,body{
 .header{
     width: 100%;
     height: 511px;
-    background-image: url("http://i1.piimg.com/567571/7fb6fb045793da9e.png");
+    background-image: url("../images/header.png");
     background-color: #7B79FF;
     background-repeat: repeat;
     margin: 0 auto;
@@ -18,7 +18,7 @@ html,body{
     width: 1150px;
     height: 511px;
     margin: 0 auto;
-    background-image: url("http://i1.piimg.com/567571/0686c21b9f8973e9.png");
+    background-image: url("../images/content.png");
     background-repeat: no-repeat;
 }
 .content-left{
@@ -81,11 +81,11 @@ html,body{
   display: inline-block;
 }
 .bottom-left{
-    background-image: url("http://i1.piimg.com/567571/b6ef1bc9bd26bff9.png");
+    background-image: url("../images/bottom-left.png");
 }
 .bottom-right{
     margin-left: 30px;
-    background-image: url("http://i1.piimg.com/567571/bff3032887525585.png");
+    background-image: url("../images/bottom-right.png");
 }
 .interface{
     width: 1100px;
@@ -119,7 +119,7 @@ html,body{
 .picture{
     width: 680px;
     height: 100%;
-    background-image: url("http://i1.piimg.com/567571/44511892d2fab75e.png");
+    background-image: url("../images/picture.png");
     display: inline-block;
 }
 .function{
@@ -162,18 +162,19 @@ html,body{
     height: 150px;
     background-repeat: no-repeat;
     margin-top: 60px;
+    background-position: center;
 }
 .bottom_picture_left{
     margin-bottom: 40px;
-    background-image: url("http://p1.bqimg.com/567571/7b10ef9b606ac190.png");
+    background-image: url("../images/bottom_picture_left.png");
 }
 .bottom_picture_middle{
     margin-bottom: 38px;
-    background-image: url("http://p1.bqimg.com/567571/568b19721f44c644.png");
+    background-image: url("../images/bottom_picture_middle.png");
 }
 .bottom_picture_right{
     margin-bottom: 33px;
-    background-image: url("http://i1.piimg.com/567571/67f4908751fb8e80.png");
+    background-image: url("../images/bottom_picture_right.png");
 }
 .bottom_word{
     width: 128px;
@@ -193,6 +194,7 @@ html,body{
     width: 30px;
     font-size: 12px;
     text-align: center;
+    margin-left: 10px;
 }
 .bottom_bottom{
     margin-top: 20px;
@@ -262,48 +264,48 @@ html,body{
     margin-top: -20px;
 }
 .score{
-    background-image: url("http://i1.piimg.com/567571/d1cfb50232b0909a.png");
+    background-image: url("../images/score.png");
 }
 .notice{
-    background-image: url("http://p1.bpimg.com/567571/c0cb91ce775126ba.png");
+    background-image: url("../images/notice.png");
 }
 .electrica{
-    background-image: url("http://p1.bpimg.com/567571/adb9fa311a6499a6.png");
+    background-image: url("../images/electrica.png");
 }
 .card{
-    background-image: url("http://p1.bpimg.com/567571/25b6906725a5fb89.png");
+    background-image: url("../images/card.png");
 }
 .computation{
-    background-image: url("http://p1.bpimg.com/567571/ec747ef39ef2c880.png");
+    background-image: url("../images/computation.png");
 }
 .classroom{
-    background-image: url("http://p1.bpimg.com/567571/faa6da46cdc3065b.png");
+    background-image: url("../images/classroom.png");
 }
 .information{
-    background-image: url("http://p1.bpimg.com/567571/6fe9bf675310cd49.png");
+    background-image: url("../images/information.png");
 }
 .calendar{
-    background-image: url("http://p1.bpimg.com/567571/341c44b560ecd6b4.png");
+    background-image: url("../images/calendar.png");
 }
 .website{
-    background-image: url("http://p1.bpimg.com/567571/e82d00c086319725.png");
+    background-image: url("../images/website.png");
 }
 .xueer{
-    background-image: url("http://p1.bpimg.com/567571/f0fee7aafc731f51.png");
+    background-image: url("../images/xueer.png");
 }
 .library{
-    background-image: url("http://p1.bpimg.com/567571/5bfcd767ed7ac18a.png");
+    background-image: url("../images/library.png");
     background-repeat: no-repeat;
 }
 .schedule{
-    background-image: url("http://p1.bpimg.com/567571/e92d034c9d496c4a.png");
+    background-image: url("../images/schedule.png");
     background-repeat: no-repeat;
 }
 .footer-bottom{
     margin-top: 100px;
     position: absolute;
     width: 100%;
-    background-image: url("http://i1.piimg.com/567571/7fb6fb045793da9e.png");
+    background-image: url("../images/footer-bottom.png");
     background-color: #7B67FF;
     background-repeat: repeat;
     font-size: 0px;
@@ -317,7 +319,7 @@ html,body{
 .logopicture{
     width: 30px;
     height: 30px;
-    background-image: url("http://p1.bpimg.com/567571/fbcebf8b41b398db.png");
+    background-image: url("../images/logopicture.png");
     background-repeat: no-repeat;
     display: inline-block;
     background-position: center;
@@ -337,7 +339,7 @@ html,body{
     width: 25px;
     height: 25px;
     display: inline-block;
-    background-image: url("http://p1.bqimg.com/567571/edcb0143edd18daf.png");
+    background-image: url("../images/joinlogo.png");
     background-repeat: no-repeat;
     background-position: center;
     vertical-align: middle;
