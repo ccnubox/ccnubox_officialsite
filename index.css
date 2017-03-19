@@ -122,6 +122,7 @@ html,body{
     height: 100%;
     background-image: url("../images/picture.png");
     display: inline-block;
+    background-size: 100%;
 }
 .function{
     width: 1000px;
@@ -250,7 +251,7 @@ html,body{
     margin-left: auto;
     margin-right: auto;
     background-position: center;
-    /*background-size: 100%;   WTFFFFFF!!!!!!!*/
+    background-size: 100%;
 }
 .word{
     font-size: 20px;
@@ -289,13 +290,20 @@ html,body{
 .xueer{
     background-image: url("../images/xueer.png");
 }
+.bad{
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 48px;
+    height: 130px;
+    background-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
 .library{
     background-image: url("../images/library.png");
-    background-repeat: no-repeat;
 }
 .schedule{
     background-image: url("../images/schedule.png");
-    background-repeat: no-repeat;
 }
 .footer-bottom{
     margin-top: 100px;
