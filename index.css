@@ -83,10 +83,12 @@ html,body{
 }
 .bottom-left{
     background-image: url("../images/bottom-left.png");
+    background-size: 100%;
 }
 .bottom-right{
     margin-left: 30px;
     background-image: url("../images/bottom-right.png");
+    background-size: 100%;
 }
 .interface{
     width: 1100px;
@@ -155,11 +157,12 @@ html,body{
 .bottom_picture{
     margin-left: auto;
     margin-right: auto;
-    width: 140px;
-    height: 150px;
+    width: 118px;
+    height: 127px;
     background-repeat: no-repeat;
     margin-top: 60px;
     background-position: center;
+    background-size: 100%;
 }
 .bottom_picture_left{
     margin-bottom: 40px;
@@ -247,6 +250,7 @@ html,body{
     margin-left: auto;
     margin-right: auto;
     background-position: center;
+    /*background-size: 100%;   WTFFFFFF!!!!!!!*/
 }
 .word{
     font-size: 20px;
@@ -309,10 +313,11 @@ html,body{
     margin-right: auto;
 }
 .logopicture{
-    width: 30px;
-    height: 30px;
+    width: 23px;
+    height: 23px;
     background-image: url("../images/logopicture.png");
     background-repeat: no-repeat;
+    background-size: 100%;
     display: inline-block;
     background-position: center;
     position: relative;
@@ -327,12 +332,13 @@ html,body{
     vertical-align: middle;
 }
 .joinlogo{
-    width: 25px;
-    height: 25px;
+    width: 23px;
+    height: 23px;
     display: inline-block;
     background-image: url("../images/joinlogo.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 100%;
     vertical-align: middle;
     margin-left: 300px;
 }
