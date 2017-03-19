@@ -25,6 +25,9 @@ html,body{
 .inline-block{
     display: inline-block;
 }
+.font-size{
+    font-size: 0;
+}
 .header{
     width: 100%;
     height: 511px;
@@ -33,7 +36,6 @@ html,body{
     background-repeat: repeat;
     margin: 0 auto;
     padding-top: 23px;
-    font-size: 0;
 }
 .content{
     width: 1100px;
@@ -147,7 +149,6 @@ html,body{
 .function-bottom{
     width: 100%;
     height: 400px;
-    font-size: 0px;
 }
 .function-bottom-img{
     width: 33%;
@@ -222,7 +223,7 @@ html,body{
     height: 172px;
 }
 .block{
-    width: 32%;
+    width: 33%;
     height: 100%;
     display: inline-block;
 }
@@ -285,7 +286,6 @@ html,body{
     background-image: url("../images/footer-bottom.png");
     background-color: #7B67FF;
     background-repeat: repeat;
-    font-size: 0px;
 }
 .bottom-top{
     width: 100%;
