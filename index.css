@@ -7,12 +7,17 @@ html,body{
 .font-family{
   font-family:  "Microsoft YaHei";
 }
+.display{
+    display: inline-block;
+    vertical-align: middle;
+}
 .header{
     width: 100%;
     height: 511px;
     background-image: url("../images/header.png");
     background-color: #7B79FF;
     background-repeat: repeat;
+    background-size: 100%;
     margin: 0 auto;
     padding-top: 23px;
     font-size: 0;
@@ -23,6 +28,7 @@ html,body{
     margin: 0 auto;
     background-image: url("../images/content.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 .content-left{
     display: inline-block;
@@ -72,7 +78,6 @@ html,body{
     width: 392px;
     height: 122px;
     margin-top: 50px;
-    /*margin-right: 532px;*/
     margin-left: -10px;
 }
 .bottom-img{
@@ -329,49 +334,38 @@ html,body{
     background-image: url("../images/logopicture.png");
     background-repeat: no-repeat;
     background-size: 90%;
-    display: inline-block;
     background-position: center;
-    vertical-align: middle;
     margin-left: 100px;
 }
 .logoword{
     width: auto;
     font-size: 20px;
-    display: inline-block;
     color: white;
     font-weight: lighter;
-    vertical-align: middle;
     margin-left: 10px;
 }
 .joinlogo{
     width: 26px;
     height: 26px;
-    display: inline-block;
     background-image: url("../images/joinlogo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 80%;
-    vertical-align: middle;
     margin-left: 300px;
 }
 .joinwho{
-    display: inline-block;
     color: white;
     font-size: 14px;
     font-weight: lighter;
-    vertical-align: middle;
     margin-left: 5px;
 }
 .joinus{
-    display: inline-block;
     color: white;
     font-size: 14px;
     margin-left: 50px;
-    margin-right: 90px;
     text-decoration: none;
-    vertical-align: middle;
     line-height: 90px;
 }
 a:hover{
-  color: #FF9135;
+   color: #FF9135;
 }
