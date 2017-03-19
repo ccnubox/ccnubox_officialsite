@@ -68,7 +68,7 @@ html,body{
     height: 112px;
     margin-top: 132px;
 }
-.top_word{
+.top-word{
     width: 100%;
     font-size: 36px;
     font-weight: bolder;
@@ -112,7 +112,7 @@ html,body{
     vertical-align: top;
     padding-top: 128px;
 }
-.new_advantage{
+.new-advantage{
     font-size: 28px;
     text-align: left;
     color: #333333;
@@ -156,40 +156,40 @@ html,body{
     height: 400px;
     font-size: 0px;
 }
-.function_bottom_img{
+.function-bottom-img{
     width: 33%;
     height: 100%;
     display: inline-block;
 }
-.bottom_picture{
+.bottom-picture{
     width: 118px;
     height: 127px;
     margin-top: 60px;
     background-position: center;
     background-size: 100%;
 }
-.bottom_picture_left{
+.bottom-picture-left{
     margin-bottom: 40px;
     background-image: url("../images/bottom_picture_left.png");
 }
-.bottom_picture_middle{
+.bottom-picture-middle{
     margin-bottom: 38px;
     background-image: url("../images/bottom_picture_middle.png");
 }
-.bottom_picture_right{
+.bottom-picture-right{
     margin-bottom: 33px;
     background-image: url("../images/bottom_picture_right.png");
 }
-.bottom_word{
+.bottom-word{
     width: 128px;
     margin: 0 auto;
 }
-.bottom_word_left{
+.bottom-word-left{
     display: inline-block;
     font-size: 20px;
     color: #333333;
 }
-.bottom_word_right{
+.bottom-word-right{
     display: inline-block;
     border-radius: 5px;
     background-color: red;
@@ -199,7 +199,7 @@ html,body{
     text-align: center;
     margin-left: 10px;
 }
-.bottom_bottom{
+.bottom-bottom{
     margin-top: 20px;
     font-size: 14px;
     color: #333333;
@@ -295,7 +295,7 @@ html,body{
 .schedule{
     background-image: url("../images/schedule.png");
 }
-.footer-bottom{
+.footer{
     width: 100%;
     background-image: url("../images/footer-bottom.png");
     background-color: #7B67FF;
