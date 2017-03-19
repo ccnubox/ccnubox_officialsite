@@ -5,7 +5,10 @@ html,body{
     width: 100%;
 }
 .font-family{
-  font-family:  "Microsoft YaHei";
+    font-family:  "Microsoft YaHei";
+}
+.color{
+    color: #333333;
 }
 .display{
     display: inline-block;
@@ -115,13 +118,11 @@ html,body{
 .new-advantage{
     font-size: 28px;
     text-align: left;
-    color: #333333;
     margin-bottom: 70px;
 }
 .more{
     font-size: 16px;
     text-align: left;
-    color: #333333;
     font-weight: lighter;
     margin-bottom: 25px;
 }
@@ -141,7 +142,6 @@ html,body{
     width: 100%;
     font-size: 28px;
     text-align: center;
-    color: #333333;
 }
 .function-middle{
     width: 100%;
@@ -149,7 +149,6 @@ html,body{
     font-weight: lighter;
     text-align: center;
     margin-top: 25px;
-    color: #333333;
 }
 .function-bottom{
     width: 100%;
@@ -187,7 +186,6 @@ html,body{
 .bottom-word-left{
     display: inline-block;
     font-size: 20px;
-    color: #333333;
 }
 .bottom-word-right{
     display: inline-block;
@@ -202,7 +200,6 @@ html,body{
 .bottom-bottom{
     margin-top: 20px;
     font-size: 14px;
-    color: #333333;
     text-align: center;
     font-weight: lighter;
     width: 180px;
@@ -214,14 +211,12 @@ html,body{
 }
 .browse-top{
     font-size: 28px;
-    color: #333333;
     text-align: center;
     padding-top: 100px;
 }
 .browse-middle{
     font-size: 16px;
     font-weight: lighter;
-    color: #333333;
     text-align: center;
     padding-top: 25px;
 }
