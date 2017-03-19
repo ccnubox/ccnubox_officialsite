@@ -28,6 +28,9 @@ html,body{
 .font-size{
     font-size: 0;
 }
+.vertical-aline{
+    vertical-align: top;
+}
 .header{
     width: 100%;
     height: 511px;
@@ -51,9 +54,9 @@ html,body{
     margin-top: 80px;
 }
 .gif-wrapper{
-  width: 100%;
-  height: 100%;
-  background-image: url("./phone_img.png");
+    width: 100%;
+    height: 100%;
+    background-image: url("./phone_img.png");
 }
 .gif{
     width: 70%;
@@ -66,7 +69,6 @@ html,body{
 .content-right{
     width: 382px;
     height: 100%;
-    vertical-align: top;
 }
 .top{
     width: 381px;
@@ -110,7 +112,6 @@ html,body{
 .advantage{
     width: 300px;
     margin-left: 110px;
-    vertical-align: top;
     padding-top: 128px;
 }
 .new-advantage{
