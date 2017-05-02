@@ -14,6 +14,10 @@ html,body{
 .inline-block{
     display: inline-block;
 }
+.horizontal-center{
+    display: inline-block;
+    vertical-align: middle;
+}
 .font-size{
     font-size: 0;
 }
@@ -60,7 +64,6 @@ html,body{
 .content-middle-left{
    width: 40%;
    height: 100%;
-   vertical-align: middle;
 }
 .logo-picture{
     width: 140px;
@@ -71,7 +74,6 @@ html,body{
 }
 .content-middle-right{
    width: 60%;
-   vertical-align: middle;
 }
 .top-word{
     color: white;
@@ -81,8 +83,6 @@ html,body{
 .content-middle-right-box{
    width: 100%;
    height: 100%;
-   /*margin-top: auto;
-   margin-bottom: auto;*/
    padding-top: 45px;
    box-sizing: border-box;
 }
@@ -264,7 +264,6 @@ html,body{
 }
 .footer-background{
     background-image: url("../images/footer-background.png");
-    background-repeat: repeat;
     width: 100%;
 }
 .footer-left{
@@ -276,12 +275,10 @@ html,body{
     height: 14px;
     background-image: url("../images/flower.png");
     margin-left: 20%;
-    vertical-align: middle;
 }
 .footer-join{
     font-size: 10px;
     color: white;
-    vertical-align: middle;
 }
 .footer-right{
     height: 100%;
