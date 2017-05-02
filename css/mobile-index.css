@@ -105,13 +105,11 @@ html,body{
     width: 50%;
     height: 100%;
     text-align: center;
-    display: inline-block;
 }
 .android-ios{
     width: 137px;
     height: 48px;
     vertical-align: top;
-    display: inline-block;
     margin-top: 24px;
 }
 .android{
@@ -203,7 +201,6 @@ html,body{
 .block{
     width: 33%;
     height: 100%;
-    display: inline-block;
 }
 .blockpicture{
     width: 60px;
