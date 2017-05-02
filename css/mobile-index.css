@@ -79,12 +79,6 @@ html,body{
     font-size: 18px;
     font-weight: Negreta;
 }
-.content-middle-right-box{
-   width: 100%;
-   height: 100%;
-   padding-top: 45px;
-   box-sizing: border-box;
-}
 .top-word-bottom{
     margin-top: 5px;
 }
@@ -286,6 +280,6 @@ html,body{
     text-decoration: none;
     line-height: 40px;
 }
-a:hover{
+.join:hover{
    color: #FF9135;
 }
