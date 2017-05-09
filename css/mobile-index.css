@@ -65,7 +65,7 @@ html,body{
    height: 100%;
 }
 .logo-picture{
-    width: 140px;
+    width: 120px;
     height: 100%;
     background-image: url("../images/logo_picture.png");
     background-size: 80%;
@@ -105,12 +105,6 @@ html,body{
     vertical-align: top;
     margin-top: 24px;
 }
-.android{
-    background-image: url("../images/android.png");
-}
-.ios{
-    background-image: url("../images/ios.png");
-}
 .function{
     width: 100%;
     height: 200px;
@@ -134,21 +128,12 @@ html,body{
     width: 33%;
     height: 100%;
 }
-.bottom-picture{
+/*.bottom-picture{
     width: 44px;
     height: 44px;
     background-position: center;
     background-size: 100%;
-}
-.bottom-picture-left{
-    background-image: url("../images/bottom_picture_left.png");
-}
-.bottom-picture-middle{
-    background-image: url("../images/bottom_picture_middle.png");
-}
-.bottom-picture-right{
-    background-image: url("../images/bottom_picture_right.png");
-}
+}*/
 .bottom-word{
     width: 100%;
     margin: 0 auto;
@@ -207,9 +192,6 @@ html,body{
     font-weight: lighter;
     margin-bottom: 15px;
 }
-.score{
-    background-image: url("../images/score.png");
-}
 .notice{
     background-image: url("../images/notice.png");
 }
@@ -241,12 +223,6 @@ html,body{
     background-position: center;
     width: 21px;
     height: 21px;
-}
-.library{
-    background-image: url("../images/library.png");
-}
-.schedule{
-    background-image: url("../images/schedule.png");
 }
 .footer{
     width: 100%;
