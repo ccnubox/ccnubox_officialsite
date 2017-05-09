@@ -192,33 +192,6 @@ html,body{
     font-weight: lighter;
     margin-bottom: 15px;
 }
-.notice{
-    background-image: url("../images/notice.png");
-}
-.electrica{
-    background-image: url("../images/electrica.png");
-}
-.card{
-    background-image: url("../images/card.png");
-}
-.computation{
-    background-image: url("../images/computation.png");
-}
-.classroom{
-    background-image: url("../images/classroom.png");
-}
-.information{
-    background-image: url("../images/information.png");
-}
-.calendar{
-    background-image: url("../images/calendar.png");
-}
-.website{
-    background-image: url("../images/website.png");
-}
-.xueer{
-    background-image: url("../images/xueer.png");
-}
 .bad{
     background-position: center;
     width: 21px;
