@@ -192,9 +192,11 @@ html,body{
 } */
 .browse{
     width: 100%;
-    height: 400px;
     background-color: #FCFCFD;
     padding-top: 30px;
+}
+.browse-img{
+    width:100%;
 }
 .browse-top{
     font-size: 12px
