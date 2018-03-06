@@ -100,4 +100,14 @@
       </div>
     </div>
 </body>
+<script>
+  var u = navigator.userAgent
+  var tip = document.getElementById("Android")
+  
+  tip.addEventListener("click", function () {
+    if (u.indexOf("MQQBrowser") === -1 && u.indexOf("QQ") !== -1) {
+      alert("请在右上角打开浏览器后下载");
+    }
+  })
+</script>
 </html>
